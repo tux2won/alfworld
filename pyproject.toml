@@ -1,3 +1,5 @@
 [build-system]
 requires = ["setuptools >= 61.0"]
 build-backend = "setuptools.build_meta"
+[tool.poetry.dependencies]
+textworld = "^1.6"
